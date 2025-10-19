@@ -34,11 +34,11 @@ I'm <b>Basma Mostafa</b>, a passionate <b>Frontend Web Developer</b> specialized
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Basma22Mostafa/e-commerce"><b>E-commerce Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Basma22Mostafa/e-commerce?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Basma22Mostafa/e-commerce?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Basma22Mostafa/e-commerce?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Basma22Mostafa/e-commerce?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Basma22Mostafa/ECommerce-website"><b>E-commerce Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Basma22Mostafa/ECommerce-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Basma22Mostafa/ECommerce-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Basma22Mostafa/ECommerce-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Basma22Mostafa/ECommerce-website?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
